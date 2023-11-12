@@ -1,4 +1,4 @@
-[![CI](https://github.com/nogibjj/xueqing_wu_individual3/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/xueqing_wu_individual3/actions/workflows/cicd.yml)
+[![CI](https://github.com/nogibjj/mini_project11_xueqing_wu/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/mini_project11_xueqing_wu/actions/workflows/cicd.yml)
 
 ## Purpose
 The goal of this project is to build an ETL pipeline on Databricks. 
