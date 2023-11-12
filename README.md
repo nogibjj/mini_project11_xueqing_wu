@@ -70,5 +70,11 @@ Preparation:
 1. https://github.com/nogibjj/python-ruff-template
 1. https://docs.databricks.com/en/getting-started/data-pipeline-get-started.html
 
+### Data Sink
+A data sink is a term used in the context of information systems and data processing. It refers to a destination or endpoint where data is directed and ultimately consumed or stored. In simpler terms, a data sink is a repository or system that collects and holds data.
+
+The concept of a data sink is often contrasted with a data source. While a data source is where data originates or is generated, a data sink is where data ends up or is utilized. Data sinks can take various forms, such as databases, files, applications, or other systems that receive and store incoming data.
+
+For example, in a network communication scenario, a data sink could be a database where information from multiple sources is gathered and stored. Similarly, in a data flow diagram, a data sink is represented as the endpoint of a data flow.
 
 
